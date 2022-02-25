@@ -1,0 +1,52 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index-1e54ea6c.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-1e54ea6c.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout.svelte-393c8c0d.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/pages/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-1e54ea6c.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-1e54ea6c.js"
+    ],
+    "css": [
+      "assets/entries/pages/index.svelte-5e65a659.css"
+    ],
+    "assets": [
+      "assets/herobg-ba110a91.jpg",
+      "assets/slide1-900077e3.jpg",
+      "assets/slide2-d9ca370d.jpg",
+      "assets/slide3-557d55cd.jpg",
+      "assets/slide4-9aad7830.jpg",
+      "assets/slide5-bbbf91e7.jpg",
+      "assets/slide6-232c6c8c.jpg"
+    ]
+  },
+  "_index-1e54ea6c.js": {
+    "file": "chunks/index-1e54ea6c.js"
+  }
+}
