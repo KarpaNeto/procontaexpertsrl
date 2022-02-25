@@ -30,22 +30,16 @@
     </div>
     <div class="navbar-center hidden lg:flex">
       <ul class="menu menu-horizontal p-0">
-        <li><a href="/">Despre noi</a></li>
-        <li><a href="/">Servicii</a></li>
-        <li><a href="/">Galerie</a></li>
-        <li><a href="/">Contact</a></li>
+        <li><a href="#about">Despre noi</a></li>
+        <li><a href="#service">Servicii</a></li>
+        <li><a href="#gallery">Galerie</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </div>
     <div class="navbar-end">
       <!-- <a class="btn">Get started</a> -->
 </div>
   </div>
-
-  <style>
-    .open {
-      display: hidden;
-    }
-  </style>
 
 
   
